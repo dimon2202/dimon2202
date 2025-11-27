@@ -5,7 +5,7 @@
 
 🚀 **About Me**
 
-I'm a passionate and results-oriented **Front-End Developer** based in **Łódź, Poland**, currently open to **remote or on-site opportunities across Europe**.  
+I'm a passionate and results-oriented **Front-End Developer** based in **Ede, Netherlands**, currently open to **remote or on-site opportunities across Europe**.  
 With strong hands-on experience in **React**, **Next.js**, **TypeScript**, and **UI/UX principles**, I focus on building web applications that are fast, accessible, and user-centric.
 
 I combine my background in **mathematics**, **creativity**, and **problem-solving** to deliver clean, maintainable, and scalable code — always with the end-user in mind.
@@ -78,7 +78,8 @@ I combine my background in **mathematics**, **creativity**, and **problem-solvin
 🌍 **Languages**
 
 - 🇺🇦 Ukrainian – Native  
-- 🇬🇧 English – B2  
+- 🇬🇧 English – B2
+- 🇳🇱 Dutch – A2
 - 🇵🇱 Polish – A2  
 
 ---
