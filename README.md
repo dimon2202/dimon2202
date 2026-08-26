@@ -1,113 +1,95 @@
-<h1 align="center">Hi there 👋 I'm Dmytro Sidenko</h1>
-<h3 align="center">Front-End Developer | Crafting modern, scalable & delightful web experiences</h3>
+# Hi, I'm Dmytro Sidenko 👋
 
----
+**Full-Stack Developer / Software Engineer** based in **Ede, Netherlands**.
 
-🚀 **About Me**
+I have commercial experience building web applications with **React, Next.js, TypeScript, and Node.js**. I focus on scalable architecture, performance, clean code, and reliable user experiences.
 
-I'm a passionate and results-oriented **Front-End Developer** based in **Ede, Netherlands**, currently open to **remote or on-site opportunities across Europe**.  
-With strong hands-on experience in **React**, **Next.js**, **TypeScript**, and **UI/UX principles**, I focus on building web applications that are fast, accessible, and user-centric.
+Currently, I’m developing my full-stack skills through **MATE Academy** and looking for opportunities as a **Full-Stack Developer / Software Engineer** in the Netherlands.
 
-I combine my background in **mathematics**, **creativity**, and **problem-solving** to deliver clean, maintainable, and scalable code — always with the end-user in mind.
+## 🛠 Tech Stack
 
----
+**Frontend**
 
-💼 **Professional Experience**
+* React, Next.js, TypeScript, JavaScript
+* Redux, Zustand
+* Tailwind CSS, Styled Components
+* HTML5, CSS3, Three.js, GSAP
 
-- 🏢 **Darkbot Inc.** (06.2024 – 06.2025)  
-  *Front-End Developer*  
-  → Developed SPAs and SSR apps with **Next.js**, **Redux**, **Styled Components**  
-  → Implemented **multilingual support** (i18n), responsive UI, and promo pages  
-  → Focused on performance, SEO, accessibility & maintainability  
+**Backend & Data**
 
-- 🏫 **Enactus KNEU** (11.2023 – 06.2024)  
-  *Web Developer*  
-  → Built UI for a humanitarian hub and library using **React**, **Redux**, and REST APIs  
-  → Contributed to backend logic & optimized data exchange  
+* Node.js, Express
+* REST APIs, WebSockets / Socket.IO
+* PostgreSQL, MongoDB, SQL
+* Prisma ORM, Stripe API
 
----
+**Engineering & Tools**
 
-🧠 **Skills**
+* Git, GitHub, Docker, CI/CD
+* Jest, Playwright, Cypress
+* Webpack, ESLint, npm/yarn
+* Jira
+* AI-assisted development and workflow automation
 
-**Languages & Frameworks:**  
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `PHP` · `SQL/NoSQL`
+## 💼 Experience
 
-**UI & Styling:**  
-`Tailwind CSS` · `Styled Components` · `Bootstrap` · `Three.js` · `GSAP`
+### Darkbot Inc. — Front-End Developer
 
-**Tools & DevOps:**  
-`Git` · `GitHub/Bitbucket` · `ESLint` · `Webpack` · `Vite` · `JIRA` · `Agile/Scrum`
+**Apr 2024 – Apr 2026**
 
-**Soft Skills:**  
-🌍 International mindset · 🤝 Team player · 🧠 Problem-solver · 💬 Communicative
+AI-powered crypto trading platform.
 
----
+* Built production applications with **React, Next.js, TypeScript, and Redux**.
+* Developed scalable trading dashboards, analytics interfaces, and marketing pages.
+* Implemented internationalization with **next-i18next**.
+* Improved responsive design, performance, and cross-browser compatibility.
+* Worked with backend and product teams to resolve production issues and deliver features in a fast-paced startup environment.
 
-📌 **Featured Projects**
+### ENACTUS KNEU — Web Developer
 
-🔹 [**Real Estate Web App**](https://real-estate-website-client-rob5.onrender.com/)  
-*React, Tailwind, Socket.IO, Node.js, MongoDB*  
-> Full-stack platform for property listings with real-time messaging  
-[GitHub ↗](https://github.com/dimon2202/iphope-3d)
+**Mar 2023 – Mar 2024**
 
-🔹 [**TAXI Booking App**](https://taxi-next-app-jet.vercel.app/)  
-*Next.js 13, Stripe, Google Maps API*  
-> Seamless taxi booking with location-based services and payments  
-[GitHub ↗](https://github.com/dimon2202/taxi-next-app)
+* Developed responsive web applications using **React, Redux, JavaScript, and REST APIs**.
+* Built reusable UI components and integrated frontend applications with backend services.
+* Collaborated with designers and developers in an **Agile/Scrum** environment.
+* Improved application performance and cross-browser compatibility.
 
-🔹 [**iPhone 15 Pro Showcase**](https://iphope-3d.vercel.app/)  
-*Three.js, GSAP*  
-> Immersive product presentation using 3D & animation  
-[GitHub ↗](https://github.com/dimon2202/iphope-3d)
+## 🚀 Selected Projects
 
-🔹 [**React Sneakers**](https://react-sneakers-dimon2202.vercel.app/)  
-> E-commerce app with cart functionality and interactive UI  
-[GitHub ↗](https://github.com/dimon2202/react-sneakers)
+### Real Estate Agency
 
----
+Full-stack real estate platform with property listings, filtering, authentication, and real-time messaging.
 
-🎓 **Education & Certifications**
+**React · Node.js · Express · MongoDB · Prisma · Socket.IO · Tailwind CSS**
 
-- 🎓 *B.Sc. in Computer Science* – Kyiv National Economic University (2021–2025)  
-- 📜 Certifications:  
-  `FrontEnd Pro (ITEA)` · `Advanced React` · `SQL & Databases` · `HTML/CSS/JS`  
-  `PM & Leadership` – STUD-POINT · `English for IT (Prime English)`
+[Live Demo](https://real-estate-website-client-rob5.onrender.com/) · [GitHub](https://github.com/dimon2202/real-estate-website)
 
----
+### SOKOLA — Pharmacovigilance Website
 
-🌍 **Languages**
+Multilingual, SEO-focused website built with Next.js and static generation.
 
-- 🇺🇦 Ukrainian – Native  
-- 🇬🇧 English – B2
-- 🇳🇱 Dutch – A2
-- 🇵🇱 Polish – A2  
+**Next.js · Tailwind CSS · SSG · i18n**
 
----
+[Live Website](https://sokolapv.com/)
 
-📬 **Let’s Connect**
+### IPHOPE 3D
 
-- ✉️ Email: [sidenkodima2202@gmail.com](mailto:sidenkodima2202@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/dimon4ik](https://linkedin.com/in/dimon4ik)  
-- 💻 Portfolio: [portfolio-theta-eight-42.vercel.app](https://portfolio-theta-eight-42.vercel.app)  
-- 🧑‍💻 GitHub: [github.com/dimon2202](https://github.com/dimon2202)
+Interactive product website demonstrating 3D graphics and advanced web animations.
 
----
+**React · Three.js · GSAP**
 
-<h3 align="center">Let’s build something impactful together.</h3>
-<p align="center">
-  <i>I'm always open to challenging projects, innovative teams, and international collaborations.</i><br/>
-  <strong>📢 Feel free to reach out!</strong>
-</p>
+[Live Demo](https://iphope-3d.vercel.app/) · [GitHub](https://github.com/dimon2202/iphope-3d)
 
----
+## 🎓 Education
 
-<h2>🛠 Tech Stack & Tools</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,redux,tailwind,styledcomponents,mongodb,php,threejs,git,github,vscode,figma,jira" />
-</p>
+**Full-Stack Developer — MATE Academy**
+Jul 2025 – Present
 
----
+**Bachelor's Degree in Computer Science — Kyiv National Economic University**
+Sep 2021 – Jun 2025
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimon2202&layout=compact&theme=tokyonight" />
-</div>
+## 📫 Contact
+
+* 📍 Ede, Netherlands
+* 💼 [LinkedIn](https://linkedin.com/in/dimon4ik/)
+* 💻 [GitHub](https://github.com/dimon2202)
+* ✉️ [Email](mailto:sidenkodima2202@gmail.com)
