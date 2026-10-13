@@ -30,29 +30,6 @@ Currently, I’m developing my full-stack skills through **MATE Academy** and lo
 * Jira
 * AI-assisted development and workflow automation
 
-## 💼 Experience
-
-### Darkbot Inc. — Front-End Developer
-
-**Apr 2024 – Apr 2026**
-
-AI-powered crypto trading platform.
-
-* Built production applications with **React, Next.js, TypeScript, and Redux**.
-* Developed scalable trading dashboards, analytics interfaces, and marketing pages.
-* Implemented internationalization with **next-i18next**.
-* Improved responsive design, performance, and cross-browser compatibility.
-* Worked with backend and product teams to resolve production issues and deliver features in a fast-paced startup environment.
-
-### ENACTUS KNEU — Web Developer
-
-**Mar 2023 – Mar 2024**
-
-* Developed responsive web applications using **React, Redux, JavaScript, and REST APIs**.
-* Built reusable UI components and integrated frontend applications with backend services.
-* Collaborated with designers and developers in an **Agile/Scrum** environment.
-* Improved application performance and cross-browser compatibility.
-
 ## 🚀 Selected Projects
 
 ### Real Estate Agency
